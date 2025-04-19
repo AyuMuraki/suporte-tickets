@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    {
+      "id": "fbf76d77-a516-4569-80cd-52e5d5b8a4f6",
+      "equipamento": "Computador.",
+      "descricao": "Computador não liga.",
+      "nome_usuario": "Ayumi Muraki",
+      "status": "Encerrado",
+      "created_at": "2025-04-18T19:00:52.531Z",
+      "updated_at": "2025-04-18T19:00:52.531Z",
+      "solucao": "Equipamento trocado."
+    },
+    {
+      "id": "7c5794ab-4586-43b1-a0b2-dc152d0f4949",
+      "equipamento": "notebook",
+      "descricao": "headset quebrado",
+      "nome_usuario": "Amy Muraki",
+      "status": "Encerrado",
+      "created_at": "2025-04-18T19:07:38.782Z",
+      "updated_at": "2025-04-18T21:32:14.215Z"
+    }
+  ]
+}
